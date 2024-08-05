@@ -5,7 +5,7 @@
 - We are NOT looking for elaborate write-ups or hundreds of lines of code, nor do we want you to spend more than 3 hours on this. We just want to get a feel for your technical abilities, thoroughness at a glance, and general approach to problem solving!
 
 ## Questions
-Note: we don't have a preference for which problem you solve (just like we don't have a preference for this application method over the personal site). Simply follow the instructions for the question you choose.
+Note: we don't have a preference for which problem you solve (just like we don't have a preference for this application method over the personal site), but our evaluation of tougher tasks will be more lenient. Simply follow the instructions for the question you choose.
 
 ### Option 1: FIND DUPLICATE
 - Implement a function to identify a duplicate integer in an unsorted array
@@ -14,7 +14,7 @@ Note: we don't have a preference for which problem you solve (just like we don't
 - Write tests and attach their results in the repo to prove correctness.
 - See [option1.cpp](./find-duplicate/option1.cpp) / [option1.py](./find-duplicate/option1.py) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
-### Option 2: IMPLEMENT STACK
+### Option 2: IMPLEMENT STACK (HARDER)
 - Implement an integer stack WITHOUT containers (list, vector, array, etc.).
 - It should have methods:
   - `push` adds a given value to the top
@@ -24,7 +24,7 @@ Note: we don't have a preference for which problem you solve (just like we don't
 - Write tests and attach their results in the repo to prove correctness.
 - See [option2.cpp](./implement-stack/option2.cpp) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
-### Option 3: GREEN SCREEN (HARDER)
+### Option 3: GREEN SCREEN (HARDEST)
 - See [option3.cpp](./green-screen/option3.cpp) for details.
 - Write tests and attach their results in the repo to prove correctness.
 
