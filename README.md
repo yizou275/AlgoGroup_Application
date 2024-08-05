@@ -15,7 +15,8 @@ Note: we don't have a preference for which problem you solve (just like we don't
 - See [option1.cpp](./find-duplicate/option1.cpp) / [option1.py](./find-duplicate/option1.py) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
 ### Option 2: IMPLEMENT STACK
-- Implement an integer stack with operations:
+- Implement an integer stack WITHOUT containers (list, vector, array, etc.).
+- It should have methods:
   - `push` adds a given value to the top
   - `pop`  returns and removes the value at the top
   - `peek` returns the value at the top
