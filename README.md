@@ -12,7 +12,7 @@ Note: we don't have a preference for which problem you solve (just like we don't
 - Given an array of exactly $N+1$ numbers, where each of the numbers in range $[1,N]$ appears at least once, find the number that appears more than once (according to pigeon-hole-principle, it's guaranteed that exactly 1 duplicate exists).
 - Implement 2 distinct solutions, analyzing the performance of each.
 - Write tests and attach their results in the repo to prove correctness.
-- See [option1.cpp](./option1.cpp) / [option1.py](./option1.py) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
+- See [option1.cpp](./find-duplicate/option1.cpp) / [option1.py](./find-duplicate/option1.py) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
 ### Option 2: IMPLEMENT STACK
 - Implement an integer stack with operations:
@@ -21,10 +21,10 @@ Note: we don't have a preference for which problem you solve (just like we don't
   - `peek` returns the value at the top
   - `size` returns the count of values in the stack
 - Write tests and attach their results in the repo to prove correctness.
-- See [option2.cpp](./option2.cpp) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
+- See [option2.cpp](./implement-stack/option2.cpp) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
 ### Option 3: GREEN SCREEN (HARDER)
-- See [option3.cpp](./option3.cpp) for details.
+- See [option3.cpp](./green-screen/option3.cpp) for details.
 - Write tests and attach their results in the repo to prove correctness.
 
 ## Steps to follow
