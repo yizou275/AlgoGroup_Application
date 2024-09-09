@@ -5,7 +5,7 @@
 - We are NOT looking for elaborate write-ups or hundreds of lines of code, nor do we want you to spend more than 3 hours on this. We just want to get a feel for your technical abilities, thoroughness at a glance, and general approach to problem solving!
 
 ## Questions
-Note: we don't have a preference for which problem you solve (just like we don't have a preference for this application method over the personal site), but our evaluation of tougher tasks will be more lenient. Simply follow the instructions for the question you choose.
+Note: we don't have a preference for which problem you solve, but our evaluation of tougher tasks will be more lenient. Simply follow the instructions for the question you choose.
 
 ### Option 1: FIND DUPLICATE
 - Implement a function to identify a duplicate integer in an unsorted array
