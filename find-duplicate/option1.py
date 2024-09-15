@@ -8,6 +8,7 @@ from typing import List
 
 # `input` contains exactly N+1 numbers
 # `input` elements are integers in the domain [1, N]
-#  `input` contains all integers in the domain [1, N] at least once
+# `input` contains all integers in the domain [1, N] at least once
+# `findDuplicate` returns an `int`: the duplicate integer
 def findDuplicate(input: List[int]) -> int:
     return 0

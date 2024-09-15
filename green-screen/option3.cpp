@@ -5,6 +5,8 @@
 #include <cstdlib>
 #include <vector>
 
+using namespace std;
+
 // Implement a blitting function which supports color-keyed transparency.
 
 unsigned int const COLOR_KEY {
