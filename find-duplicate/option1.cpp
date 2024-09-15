@@ -6,8 +6,7 @@
 #include <vector>
 
 // Implement a function to identify a duplicate integer in an unsorted array
-// of integers. Implement your solution in 2 ways if possible, and talk about
-// time/space complexity for each way.
+// of integers. Talk about time/space complexity for each method you implement.
 
 // `input` contains exactly N+1 numbers
 // `input` elements are integers in the domain [1, N]
