@@ -37,5 +37,11 @@ We don't have a preference for which problem you solve, but our evaluation of to
 5. If possible, attach proof that the tests you ran are passing (proof of correctness) in the repo.
 6. Make the repo public and attach a link in the application form for us!
 
+## If you haven't used GitHub before (Mac)
+1. Create a GitHub account here: [https://github.com/signup]([url](https://github.com/signup))
+2. Make sure Git is installed locally. The easiest way to check is by running `git --version`.
+3. Clone this repository locally by running the following command: `git clone https://github.com/Algo-Group-UChicago/takehome-assessment.git`.
+4. Follow this guide to attach an SSH key to your GitHub account: [https://docs.github.com/en/authentication/connecting-to-github-with-ssh]([url](https://docs.github.com/en/authentication/connecting-to-github-with-ssh))
+
 ## Good luck!
-We don't expect you to know everything coming into Algo Group, and this is just meant to emulate a light takehome that you might recieve in the recruitment process. Even if you can't implement a full solution in a couple hours, definitely submit what you have, as we value commitment and enthusiasm over everything.
+We don't expect you to know everything coming into Algo Group, and this is just meant to emulate a light takehome that you might receive in the recruitment process. We don't expect you to spend more than 1 hour on this. Even if you can't implement a full solution in an hour, definitely submit what you have, as we value commitment and enthusiasm over everything.
