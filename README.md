@@ -11,7 +11,7 @@ We don't have a preference for which problem you solve, but our evaluation of to
 - Implement a function to identify a duplicate integer in an unsorted array.
 - Given an array of exactly $N+1$ numbers, where each of the numbers in range $[1,N]$ appears at least once, find the number that appears more than once.
 - Write a sentence or two describing the performance of your solution(s).
-- [Optional] Write tests and attach their results in the repo to prove correctness.
+- Write tests and attach their results in the repo to prove correctness.
 - See [option1.cpp](./find-duplicate/option1.cpp) / [option1.py](./find-duplicate/option1.py) to get started (note that you may use any language, test frameworks, file structures, etc.) so long as your completion of the task is clear.
 
 ### Option 2: IMPLEMENT STACK (HARDER)
@@ -34,7 +34,7 @@ We don't have a preference for which problem you solve, but our evaluation of to
 2. In README.md, delete this content and clearly state which question you are answering at the top.
 3. Add your reasoning/methodology for said question.
 4. Delete all irrelevant files, and attach your solution along with any tests you may have written.
-5. If possible, attach proof that the tests you ran are passing (proof of correctness) in the repo.
+5. If you wrote tests, attach proof that the tests you ran are passing (proof of correctness) in the repo.
 6. Make the repo public and attach a link in the application form for us!
 
 ## If you haven't used GitHub before (Mac)
