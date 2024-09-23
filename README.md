@@ -8,7 +8,7 @@
 We don't have a preference for which problem you solve, but our evaluation of tougher tasks will be more lenient. Simply follow the instructions for the question you choose.
 
 ### Option 1: FIND DUPLICATE
-- Implement a function to identify a duplicate integer in an unsorted array.
+- Implement a function to identify a duplicate integer in an unsorted array. Ideally, you would write 2 different solutions with different time/space performance.
 - Given an array of exactly $N+1$ numbers, where each of the numbers in range $[1,N]$ appears at least once, find the number that appears more than once.
 - Write a sentence or two describing the performance of your solution(s).
 - Write tests and attach their results in the repo to prove correctness.
