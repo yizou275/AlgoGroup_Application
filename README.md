@@ -30,7 +30,7 @@ We don't have a preference for which problem you solve, but our evaluation of to
 - Write tests and attach their results in the repo to prove correctness.
 
 ## Steps to follow
-1. Set up a GitHub repository and a local directory to work out of (see the **Set up submission on GitHub** section below).
+1. Set up a GitHub repository and a local directory to work out of (see the **Set up for submission on GitHub** section below). *If you run into major issues with Git/GitHub, simply upload your code files to Google Drive and include the shared link in your application.*
 2. In README.md, delete this content and clearly state which question you are answering at the top.
 3. Add your reasoning/methodology for said question.
 4. Delete all irrelevant files, and attach your solution along with any tests you may have written.
@@ -46,7 +46,7 @@ We don't have a preference for which problem you solve, but our evaluation of to
 mkdir algo-group-take-home
 cd algo-group-take-home
 ```
-5. Connect this local repository to both your new GitHub repository, and the upstream Algo Group repository.
+5. Connect this local repository to both your new GitHub repository, and the upstream Algo Group repository. After running these commands, both your local directory and your GitHub repository will be populated with the starter code files.
 ```
 git init
 git remote add origin [Your GitHub repository HTTPS URL]
@@ -62,7 +62,7 @@ git commit -m "[COMMIT MESSAGE]"
 git push
 ```
 
-*If you run into major issues with Git/GitHub, feel free to simply upload your code files to Google Drive and include the shared link in your application.*
+*If you run into major issues with Git/GitHub, simply upload your code files to Google Drive and include the shared link in your application.*
 
 ## Good luck!
 We don't expect you to know everything coming into Algo Group, and this is just meant to emulate a light takehome that you might receive in the recruitment process. We don't expect you to spend more than 1 hour on this. Even if you can't implement a full solution in an hour, definitely submit what you have, as we value commitment and enthusiasm over everything.
