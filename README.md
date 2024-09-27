@@ -30,18 +30,39 @@ We don't have a preference for which problem you solve, but our evaluation of to
 - Write tests and attach their results in the repo to prove correctness.
 
 ## Steps to follow
-1. Clone this repo.
+1. Set up a GitHub repository and a local directory to work out of (see the **Set up submission on GitHub** section below).
 2. In README.md, delete this content and clearly state which question you are answering at the top.
 3. Add your reasoning/methodology for said question.
 4. Delete all irrelevant files, and attach your solution along with any tests you may have written.
 5. If you wrote tests, attach proof that the tests you ran are passing (proof of correctness) in the repo.
 6. Make the repo public and attach a link in the application form for us!
 
-## If you haven't used GitHub before (Mac)
+## Set up for submission on GitHub
 1. [Create a GitHub account here](https://github.com/signup).
-2. Make sure Git is installed locally. The easiest way to check is by running `git --version`.
-3. Clone this repository locally by running the following command: `git clone https://github.com/Algo-Group-UChicago/takehome-assessment.git`.
-4. [Follow this guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) to attach an SSH key to your GitHub account.
+2. Make sure Git is installed locally. The easiest way to check is by running `git --version`. If you need help installing Git, contact an Algo Group board member!
+3. Create a new repository on the GitHub web UI—its name doesn't matter, but make sure it's public.
+4. Create a local directory on your machine to work out of. Enter that directory.
+```
+mkdir algo-group-take-home
+cd algo-group-take-home
+```
+5. Connect this local repository to both your new GitHub repository, and the upstream Algo Group repository.
+```
+git init
+git remote add origin [Your GitHub repository HTTPS URL]
+git remote add upstream https://github.com/Algo-Group-UChicago/takehome-assessment.git
+git pull upstream main
+git branch -M main
+git push -u origin main
+```
+6. To push your local changes to your GitHub repository, enter your local directory and enter the following commands:
+```
+git add .
+git commit -m "[COMMIT MESSAGE]"
+git push
+```
+
+*If you run into major issues with Git/GitHub, feel free to simply upload your code files to Google Drive and include the shared link in your application.*
 
 ## Good luck!
 We don't expect you to know everything coming into Algo Group, and this is just meant to emulate a light takehome that you might receive in the recruitment process. We don't expect you to spend more than 1 hour on this. Even if you can't implement a full solution in an hour, definitely submit what you have, as we value commitment and enthusiasm over everything.
